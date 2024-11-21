@@ -1,0 +1,7 @@
+langchain
+pydantic
+rich
+pytest
+pytest-asyncio
+pytest-cov
+langgraph

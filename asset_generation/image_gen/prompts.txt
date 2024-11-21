@@ -1,0 +1,37 @@
+prompts = [
+    "IMG_1018.CR2 Drone shot of a quiet suburban neighborhood at dusk, with a moody, ominous sky, transitioning into night. Soft, eerie lighting, shadows cast by trees onto still houses. Slight fog rolling in, adding to the suspense.",
+    
+    "IMG_1018.CR2 A dimly lit teenage bedroom at night, illuminated by a single small lamp. Messy bed, posters on the wall, and scattered belongings on the floor. A faint, ominous shadow in the corner adds to the unsettling atmosphere.",
+    
+    "IMG_1018.CR2 A dark hallway with faint light spilling out from a partially open door at the end. Shadows line the walls, creating a sense of mystery and anticipation.",
+    
+    "IMG_1018.CR2 An empty doorway in a dimly lit hallway, with a faint shadow cast on the floor as if a small figure is standing just out of view. The atmosphere feels tense, with darkness surrounding the doorway.",
+    
+    "IMG_1018.CR2 A close-up of a window at night with faint reflections of indistinct shapes. The glass is slightly fogged up, giving the impression that something might be outside watching.",
+    
+    "IMG_1018.CR2 Close-up of a teenage boy’s clenched fist resting on a messy bed in a dimly lit room. The atmosphere feels tense, with shadows casting a sense of frustration and irritation.",
+    
+    "IMG_1018.CR2 A dimly lit child’s bedroom at night, with toys scattered on the floor, a slightly open closet door, and faint shadows on the walls that form vague, unsettling shapes. The room feels tense and eerie. Slow pan across the room, focusing on shadows shifting subtly on the walls.",
+    
+    "IMG_1018.CR2 A close-up of a flickering nightlight casting shadows that dance across the walls of a child’s bedroom. Shadows move and shift, creating an ominous atmosphere as the light flickers inconsistently.",
+    
+    "IMG_1018.CR2 A dimly lit bedside table with an old lamp casting a warm glow. The faint reflection of a shadowy figure is barely visible on the lampshade, creating a sense of mystery and suspense.",
+    
+    "IMG_1018.CR2 A child’s bed with blankets pulled up to the pillow, giving the impression someone was just lying there. The room is dimly lit, and a shadow falls across the empty bed, hinting at an unsettling absence.",
+    
+    "IMG_1018.CR2 A slightly open closet door in a child’s room, with faint, vague shadows inside. The dim lighting creates a feeling of dread, as if something might be hiding in the darkness.",
+    
+    "IMG_1018.CR2 Close-up of small footsteps in dust across the floor of a dark hallway, leading toward a door. The faint light casts eerie shadows across the prints, suggesting an unseen presence.",
+    
+    "IMG_1018.CR2 Close-up of a teenage boy’s face, partially obscured by shadows, showing a mix of irritation and concern. The dim light highlights one side of his face, adding a sense of unease.",
+    
+    "IMG_1018.CR2 An empty child’s bed in soft morning light, blankets disheveled and slightly pulled back. The room is still and quiet, with a haunting emptiness. Sunlight streams in, casting soft shadows that add a sense of mystery.",
+    
+    "IMG_1018.CR2 Close-up of a grown man’s hand holding a small birthday candle, with shadows forming in the background. The atmosphere feels heavy with regret and sorrow, as if memories of the past linger in the shadows.",
+    
+    "IMG_1018.CR2 A dark, narrow hallway with faint, shifting shadows on the walls and a dim light at the end. The camera slowly pans down the hallway, creating a tense, eerie atmosphere.",
+    
+    "IMG_1018.CR2 A young girl’s silhouette standing in a dark bedroom doorway, illuminated faintly by a soft lamp light from inside the room. Shadows cover most of her figure, creating an eerie, suspenseful atmosphere.",
+    
+    "IMG_1018.CR2 A shadowy figure barely visible in the dark corner of a child’s bedroom at night. Subtle, faint movements create an ominous presence, with only the suggestion of its form visible. The atmosphere is thick with suspense and fear."
+]
